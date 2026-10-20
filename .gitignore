@@ -1,0 +1,31 @@
+## .NET & Visual Studio
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+.vs/
+.vscode/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.pidb
+*.booproj
+*.svclog
+*.visualstudio/
+
+## Publish & Test output
+publish/
+[Tt]est[Rr]esults/
+*.trx
+*.coverage
+*.coveragexml
+
+## Backups
+backups/*.zip
+*.corrupt.*
+
+## OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
