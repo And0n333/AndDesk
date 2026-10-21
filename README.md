@@ -9,10 +9,26 @@
 [![Architecture](https://img.shields.io/badge/Architecture-WPF%20%7C%20MVVM-00599C)](https://github.com/CommunityToolkit/dotnet)
 [![Memory](https://img.shields.io/badge/Tray%20Memory-3~8%20MB-brightgreen)](#-超低资源占用与内存裁剪)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/And0n333/AndDesk?color=orange&logo=github)](https://github.com/And0n333/AndDesk/releases/latest)
 
-[功能特性](#-功能特性) • [技术亮点](#-核心技术亮点) • [快速上手](#-快速上手与构建) • [项目结构](#-项目结构) • [安全与恢复机制](#-安全原则与恢复机制)
+[📥 下载运行](#-下载与运行) • [功能特性](#-功能特性) • [技术亮点](#-核心技术亮点) • [源码构建](#-快速上手与构建) • [项目结构](#-项目结构) • [安全机制](#-安全原则与恢复机制)
 
 </div>
+
+---
+
+## 📥 下载与运行
+
+无需配置任何编译开发环境，直接下载解压即可运行：
+
+👉 **[前往 GitHub Releases 下载最新版本 (v1.0.0)](https://github.com/And0n333/AndDesk/releases/latest)**
+
+| 发布包 | 说明 | 适用场景 |
+|---|---|---|
+| **`AndDesk-v1.0.0-win-x64.zip` (推荐)** | **直接运行版**：内置完整发布包（含 `AndDesk.exe` 与 `AndDeskRecovery.exe`），解压后双击即可直接运行。 | **推荐下载**（解压即用） |
+| **`AndDesk-v1.0.0-win-x64-portable.zip`** (约 2.1 MB) | **极速便携版**：体积超小秒级下载，需系统已安装 [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/8.0)。 | 追求极致小体积的用户 |
+
+> 💡 **安全提示**：压缩包内均同时附带了 **`AndDeskRecovery.exe`（独立桌面图标恢复工具）**，若遇突发情况可一键应急恢复物理桌面图标。
 
 ---
 

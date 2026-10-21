@@ -16,6 +16,7 @@
 
 ## Publish & Test output
 publish/
+dist/
 [Tt]est[Rr]esults/
 *.trx
 *.coverage
